@@ -1,5 +1,5 @@
 # Smelte template for sapper
-[Demo](https://smelte.matyunya.now.sh)
+[Demo](https://smelte.netlify.app/)
 
 [Home repo](https://github.com/matyunya/smelte)
 
@@ -10,7 +10,7 @@ bundle size and performance at check all thanks to Svelte.
 ### Installation
 Clone the project, install the dependencies and write some pretty code!
 ```
-npx degit matyunya/smelte-template my-svelte-project
+npx degit matyunya/smelte-sapper-template my-svelte-project
 cd my-svelte-project
 yarn && yarn dev
 (or npm install && npm run dev)
